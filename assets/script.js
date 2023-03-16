@@ -99,10 +99,3 @@ window.addEventListener('DOMContentLoaded', (event) => {
 	flecheDroite.addEventListener("click", function () { FoncFlecheDroite() } );
 
 });
-/*
-	if (+AttributID === slides.length) {
-		PointSelectionner.item(0).classList.remove("dot_selected");
-		const NouveauPointSelectionner = document.querySelector("0");
-		NouveauPointSelectionner.classList.add("dot_selected");
-	} else {
-*/
